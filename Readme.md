@@ -1,9 +1,10 @@
 <img src="https://img.shields.io/badge/Data Speaks-yellow"><img src="https://img.shields.io/badge/Build_With-Tableau-red"><img src="https://img.shields.io/badge/Python-indigo"><img src="https://img.shields.io/badge/EcomElite Analytics-pink"><img src="https://img.shields.io/badge/VsCode-teal"><img src="https://img.shields.io/badge/Data Analysis-white"><img src="https://img.shields.io/badge/Dashboard-gold"><img src="https://img.shields.io/badge/Data Cleaning-blue"><img src="https://img.shields.io/badge/Report-purple"><img src="https://img.shields.io/badge/Data  Visualization-brown"><img src="https://img.shields.io/badge/Data Manipulation-orange">
 
-# EcomElite Analytics
-##  <a href="https://github.com/MuhammadSaad-ml/-EcomElite-Analytics/blob/main/OBJECTIVES.docx">OBJECTIVES</a> 
-<img src="https://i.imgur.com/BwnKLyM.png">
- 
+# Sales Analytics
+
+## C
+[![Click to watch YouTube demo](https://img.youtube.com/vi/wVqM_2mCdIk/0.jpg)](https://www.youtube.com/watch?v=wVqM_2mCdIk)
+
 <pre>
 
 Files
