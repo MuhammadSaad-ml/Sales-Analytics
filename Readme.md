@@ -11,11 +11,11 @@ Files
 
 1. Twbx file 
 2. Pre-processing.py
-3. 
-4. Readme.txt
-5. E commerce daata.csv
-6. Readme.md
-7. Analysis.ipynb
+   
+3. Readme.txt
+4. E commerce daata.csv
+5. Readme.md
+6. Analysis.ipynb
 </pre>
 
 ## Features
