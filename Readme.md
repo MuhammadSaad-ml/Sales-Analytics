@@ -11,7 +11,7 @@ Files
 
 1. Twbx file 
 2. Pre-processing.py
-3. Objectives.do
+3. Objectives.d
 4. Readme.txt
 5. E commerce daata.csv
 6. Readme.md
