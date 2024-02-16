@@ -23,7 +23,7 @@ Files
 - **Search By Customer Segment**: Results will be displayed based on customer segment.
 
   <pre>
-  Download Dataset From <a href="https://github.com/MuhammadSaad-ml/-EcomElite-Analytics/blob/main/E%20commerce%20daata.csv">https://github.com/MuhammadSaad-ml/-EcomElite-Analytics/blob/main/E%</a>
+  Download Dataset From <a href="https://github.com/MuhammadSaad-ml/Sales-Analytics/blob/main/Sales%20Data.csv">Sales Data</a>
 </pre>
 
 ## Steps
