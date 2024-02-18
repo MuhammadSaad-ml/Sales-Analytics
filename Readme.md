@@ -3,7 +3,7 @@
 # Sales Analytics
 
 ## CLICK ON IMAGE TO OPEN YOUTUBE DEMO
-[![Click to watch YouTube demo](https://img.youtube.com/vi/wVqM_2mCdIk/0.jpg)](https://www.youtube.com/watch?v=wVqM_2mCdIk)
+[![Click to watch YouTube demo](https://i.imgur.com/1KTWqfI.png)](https://www.youtube.com/watch?v=wVqM_2mCdIk)
 
 <pre>
 
