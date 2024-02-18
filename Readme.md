@@ -14,7 +14,7 @@ Files
 3. Readme.txt
 4. Sales data.csv
 5. Readme.md
-6. Python.ipynb
+6. Python V.ipynb
 </pre>
 
 ## Features
