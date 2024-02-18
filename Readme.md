@@ -14,7 +14,7 @@ Files
 3. Readme.txt
 4. Sales data.csv
 5. Readme.md
-6. Analysi.ipynb
+6. Analys.ipynb
 </pre>
 
 ## Features
